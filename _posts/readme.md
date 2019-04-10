@@ -3,6 +3,7 @@
 Experience in Github:
 * 0
 * 0 + 24-4!
-| Name | Major |
-| ---- | ----- |
-| Kwok Ping Cheuk | CE |
+Name | Major
+---- | -----
+Kwok Ping Cheuk | CE
+- [ ] finish!
